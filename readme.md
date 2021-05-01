@@ -1,0 +1,2 @@
+Eu acho que o curso está interessante. Em alguns assuntos como java e git eu achei confuso, tive que busar mais informações.
+Acredito que poderia ter algum material escrito para lembrarmos, especialmemte um glossário de comandos.
